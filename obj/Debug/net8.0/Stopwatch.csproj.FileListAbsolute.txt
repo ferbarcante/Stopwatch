@@ -1,0 +1,14 @@
+/home/fernanda/Documentos/Projetos/Stopwatch/bin/Debug/net8.0/Stopwatch
+/home/fernanda/Documentos/Projetos/Stopwatch/bin/Debug/net8.0/Stopwatch.deps.json
+/home/fernanda/Documentos/Projetos/Stopwatch/bin/Debug/net8.0/Stopwatch.runtimeconfig.json
+/home/fernanda/Documentos/Projetos/Stopwatch/bin/Debug/net8.0/Stopwatch.dll
+/home/fernanda/Documentos/Projetos/Stopwatch/bin/Debug/net8.0/Stopwatch.pdb
+/home/fernanda/Documentos/Projetos/Stopwatch/obj/Debug/net8.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernanda/Documentos/Projetos/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfoInputs.cache
+/home/fernanda/Documentos/Projetos/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfo.cs
+/home/fernanda/Documentos/Projetos/Stopwatch/obj/Debug/net8.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/fernanda/Documentos/Projetos/Stopwatch/obj/Debug/net8.0/Stopwatch.dll
+/home/fernanda/Documentos/Projetos/Stopwatch/obj/Debug/net8.0/refint/Stopwatch.dll
+/home/fernanda/Documentos/Projetos/Stopwatch/obj/Debug/net8.0/Stopwatch.pdb
+/home/fernanda/Documentos/Projetos/Stopwatch/obj/Debug/net8.0/Stopwatch.genruntimeconfig.cache
+/home/fernanda/Documentos/Projetos/Stopwatch/obj/Debug/net8.0/ref/Stopwatch.dll
